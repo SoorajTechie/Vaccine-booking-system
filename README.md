@@ -39,5 +39,4 @@ Our Vaccine Booking System is not just a technological solution but a vital tool
 - NetBeans IDE
 - SQLYog
 - java 
-# Installation
-downl
+
